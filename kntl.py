@@ -24,7 +24,7 @@ print("2)Pengurangan")
 print("3)Perkalian")
 print("4)Pembagian")
 print("_______________________")
-pilih =input("Pilih Salah Satu")
+pilih =input("Pilih Salah Satu :")
 
 #Data Pertambahan
 if pilih =="1":
