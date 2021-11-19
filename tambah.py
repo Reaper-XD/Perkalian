@@ -13,6 +13,7 @@ tampilan ="""
 =       (+)Github     : https://github.com/GRCR4K3R       =
 =       (+)Youtube    : Reja Gaming                       =
 =       (+)Pesan      : Jangan Recode Mas:)               =
+=       (+)Pesan      : Gua Masih Noob:'(                 =
 =              (+)===  Welcome To Termux ===(+)           =
 ==========================================================="""
 sleep(1)
