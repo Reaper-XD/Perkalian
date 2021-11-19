@@ -6,5 +6,5 @@
 # $pkg install git
 # $git clone https://github.com/GRCR4K3R/Perkalian
 # $cd Perkalian
-# $python tambah.py
+# $python kntl.py
 # Thanks Use My Script
