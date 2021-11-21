@@ -8,17 +8,18 @@ from time import sleep
 os.system("clear")
 os.system("figlet kalkulator")
 tampilan ="""
-===========================================================
-=       (+)Author     : Reza Alfauzan                     =
-=       (+)Github     : https://github.com/GRCR4K3R       =
-=       (+)Youtube    : Reja Gaming                       =
-=       (+)Pesan      : Jangan Recode Mas:)               =
-=       (+)Pesan      : Gua Masih Noob:'(                 =
-=              (+)===  Welcome To Termux ===(+)           =
-===========================================================
-(+)=====================================================(+)
-(+)==================== Jangan Recode Mas ==============(+)
-(+)=====================================================(+)"""
+============================================================
+=       (+)Author     : Reza Alfauzan                      =
+=       (+)Github     : https://github.com/GRCR4K3R        =
+=       (+)Youtube    : Reja Gaming                        =
+=       (+)Pesan      : Jangan Recode Mas:)                =
+=       (+)Pesan      : Gua Masih Noob:'(                  =
+=              (+)===  Welcome To Termux ===(+)            =
+============================================================
+(+)=======================================================(+)
+(+)====================> Jangan Recode Mas <==============(+)
+(+)=======================================================(+)
+(+)=========##########> Coded By Reza <##########=========(+)"""
 sleep(0.1)
 print(tampilan)
 print("")
